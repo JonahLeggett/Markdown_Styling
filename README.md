@@ -1,2 +1,8 @@
-# Markdown_Styling
-How to apply Markdown Styling to a README.md File
+# Markdown Styling
+
+## Markdown Styling
+
+### Markdown Styling
+
+Welcome to my repository of FinTech assets. Feel free to have a look around to see what I've accomplished!
+
