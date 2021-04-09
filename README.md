@@ -4,11 +4,11 @@
 
 ### Directory
 
-[code][code]
+[code][code.py]
 
-[data][data]
+[data][data.py]
 
-[references][references]
+[references][references.py]
 
 ---
 
