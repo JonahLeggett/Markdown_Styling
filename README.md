@@ -1,5 +1,7 @@
 # *Markdown Styling*
 
+![markdown-image](python/pictures/mac_man_coding.png)
+
 > "...to boldly go where no one has gone before."
 
 ### Directory
